@@ -1,2 +1,2 @@
-# Vehicle-Rental-Services
-This Project is to help small and upcoming vehicle rental focused services skyrocket their dream website project with ease and flexibility.
+# Rent-Smart Car Rental Site
+This is a Website to help a small firm who is interested in car renting to meet their short-term goals 
